@@ -1,4 +1,4 @@
-# Ex. No: 11A - Generate a Graph for a Given Fixed Degree Sequence
+# Ex. No: 17A - Generate a Graph for a Given Fixed Degree Sequence
 
 ## AIM:
 To write a Python program to generate a graph for a given **fixed degree sequence**.
