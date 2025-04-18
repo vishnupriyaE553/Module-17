@@ -1,4 +1,4 @@
-# Ex. No: 11D - Topological Sorting of a DAG
+# Ex. No: 17D - Topological Sorting of a DAG
 
 ## AIM:
 To write a Python program to **print topological sorting** of a **Directed Acyclic Graph (DAG)**.
